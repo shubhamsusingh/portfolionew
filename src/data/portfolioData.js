@@ -25,8 +25,8 @@ export const portfolioData = {
     ],
     resumeUrl: "#contact",
     socials: {
-      github: "https://github.com",
-      linkedin: "https://linkedin.com",
+      github: "https://github.com/shubhamsusingh",
+      linkedin: "https://www.linkedin.com/in/shubham-kumar-63230b229/",
       twitter: "https://twitter.com",
       email: "mailto:singhshubham68738@gmail.com"
     }
