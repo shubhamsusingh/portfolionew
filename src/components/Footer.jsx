@@ -29,7 +29,7 @@ export default function Footer() {
               <span>{personal.name}</span>
             </a>
             <p className="footer-tagline">
-              Engineering modern, scalable web applications with intuitive design and clean architecture.
+              Engineering modern, scalable web application with intuitive design and clean architecture.
             </p>
           </div>
 
